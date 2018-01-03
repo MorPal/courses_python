@@ -24,3 +24,8 @@ add_four = add_two + add_two
 
 print(add_two)
 print(add_four)
+
+# error
+# 1_student = 'prueba'
+student_1 = 'prueba'
+print(student_1)
