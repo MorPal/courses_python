@@ -1,3 +1,7 @@
 # Class 2.3
 
-# Class formatting
+# Quotes inside strings / boolean string test methods
+
+print("it's hammer time")
+
+print("He said: 'oh la la'")
